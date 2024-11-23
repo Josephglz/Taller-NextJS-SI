@@ -1,7 +1,7 @@
 "use client";
 
 interface SidebarProps {
-    onFilterChange: (filterId: number) => void; // Callback para comunicar con el componente padre
+    onFilterChange: (filterId: number) => void;
 }
 
 const Sidebar = ({ onFilterChange }: SidebarProps) => {
