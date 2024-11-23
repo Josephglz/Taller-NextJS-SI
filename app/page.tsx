@@ -128,8 +128,8 @@ const skeletonLoader = () => {
                 <div className="flex items-center w-full space-x-4">
                     <div className="shadow-sm rounded-md h-44 bg-gray-400 w-full"></div>
                     <div className="shadow-sm rounded-md h-44 bg-gray-400 w-full"></div>
-                    <div className="shadow-sm rounded-md h-44 bg-gray-400 w-full"></div>
-                    <div className="shadow-sm rounded-md h-44 bg-gray-400 w-full"></div>
+                    <div className="shadow-sm rounded-md h-44 bg-gray-300 w-full"></div>
+                    <div className="shadow-sm rounded-md h-44 bg-gray-200 w-full"></div>
                 </div>
                 <span className="sr-only">Loading...</span>
             </div>
